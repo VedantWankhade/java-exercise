@@ -14,5 +14,8 @@ public class ConstantLiterals {
         System.out.println(23.28F); // float
         System.out.println(2.328e10); // double
         System.out.println(2.328e10F); // float
+
+        System.out.println('A');
+        System.out.println('\u0041'); // A = 65 = 0x0041
     }
 }
