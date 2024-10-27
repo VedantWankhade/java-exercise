@@ -5,32 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee70019-5754-4524-ba2a-6b9e5c98160c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../basics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/AssignmentStatementAndExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/ConstantLiterals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/ShowCurrentTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/TimeToExecute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/checkpoint/2.9.3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/checkpoint/RoundDouble_2_16_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/checkpoint/TypeLimits_2_9_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/main/java/de/vedantwankha/java/liang/basics/exercise/AddDigits_2_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/AssignmentStatementAndExpressionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/ConstantLiteralsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/ConstantsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/ShowCurrentTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/TimeToExecuteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/checkpoint/RoundDouble_2_16_6_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/checkpoint/TypeLimits_2_9_1_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/test/java/de/vedantwankha/java/liang/basics/exercise/AddDigits_2_6Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/ImmutableArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/ImmutableArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/CircleClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/DateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/ImmutableObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/InternedStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/LargeFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/Regexes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/SecureRandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/CircleClassExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/DateExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/ImmutableObjectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/InternedStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/LargeFactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/MyStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/RegexesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/SecureRandomNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +39,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2nnz5JmC32M27CVGCGWkWVBGAKM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,13 +52,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.CircleClassExampleTest.testCircleClass.executor": "Profiler#3",
+    "JUnit.DateExampleTest.dateExample.executor": "Run",
     "JUnit.ImmutableArrayTest.executor": "Run",
+    "JUnit.ImmutableObjectsTest.testMutable.executor": "Run",
+    "JUnit.InternedStringsTest.internedStrings.executor": "Run",
+    "JUnit.LargeFactorialTest.factorial.executor": "Run",
+    "JUnit.MyStringTest.executor": "Run",
+    "JUnit.MyStringTest.testConstructor.executor": "Run",
+    "JUnit.MyStringTest.testToLowerCase.executor": "Run",
+    "JUnit.RegexesTest.regexes.executor": "Run",
+    "JUnit.SecureRandomNumbersTest.random.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -79,8 +85,8 @@
       <recent name="de.vedantwankha.java.liang.oop" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ImmutableArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MyStringTest">
+    <configuration name="InternedStringsTest.internedStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -89,23 +95,91 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
-      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.ImmutableArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.InternedStringsTest" />
+      <option name="METHOD_NAME" value="internedStrings" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vedantwankha.java.liang.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.MyStringTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStringTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vedantwankha.java.liang.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.MyStringTest" />
+      <option name="METHOD_NAME" value="testConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStringTest.testToLowerCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vedantwankha.java.liang.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.MyStringTest" />
+      <option name="METHOD_NAME" value="testToLowerCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexesTest.regexes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vedantwankha.java.liang.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.RegexesTest" />
+      <option name="METHOD_NAME" value="regexes" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ImmutableArrayTest" />
+        <item itemvalue="JUnit.MyStringTest" />
+        <item itemvalue="JUnit.MyStringTest.testToLowerCase" />
+        <item itemvalue="JUnit.MyStringTest.testConstructor" />
+        <item itemvalue="JUnit.RegexesTest.regexes" />
+        <item itemvalue="JUnit.InternedStringsTest.internedStrings" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
       </set>
     </attachedChunks>
   </component>
@@ -118,10 +192,21 @@
       <option name="presentableId" value="Default" />
       <updated>1729623444780</updated>
       <workItem from="1729623445812" duration="131000" />
+      <workItem from="1730018786206" duration="18091000" />
+      <workItem from="1730045107518" duration="6258000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/oop$CircleClassExampleTest_testCircleClass.ic" NAME="CircleClassExampleTest.testCircleClass Coverage Results" MODIFIED="1730023928250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>de.vedantwankha.java.liang.oop.*</FILTER>
+    </SUITE>
   </component>
 </project>
