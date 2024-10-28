@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee70019-5754-4524-ba2a-6b9e5c98160c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/CircleClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/DateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/ImmutableObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/InternedStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/LargeFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/Regexes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/SecureRandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/CircleClassExampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/DateExampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/ImmutableObjectsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/InternedStringsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/LargeFactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/MyStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/RegexesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/SecureRandomNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/ConstructorChainingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/ConstructorInheritanceExampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,33 +36,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.CircleClassExampleTest.testCircleClass.executor": "Profiler#3",
-    "JUnit.DateExampleTest.dateExample.executor": "Run",
-    "JUnit.ImmutableArrayTest.executor": "Run",
-    "JUnit.ImmutableObjectsTest.testMutable.executor": "Run",
-    "JUnit.InternedStringsTest.internedStrings.executor": "Run",
-    "JUnit.LargeFactorialTest.factorial.executor": "Run",
-    "JUnit.MyStringTest.executor": "Run",
-    "JUnit.MyStringTest.testConstructor.executor": "Run",
-    "JUnit.MyStringTest.testToLowerCase.executor": "Run",
-    "JUnit.RegexesTest.regexes.executor": "Run",
-    "JUnit.SecureRandomNumbersTest.random.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CircleClassExampleTest.testCircleClass.executor&quot;: &quot;Profiler#3&quot;,
+    &quot;JUnit.ConstructorInheritanceExampleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DateExampleTest.dateExample.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ImmutableArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ImmutableObjectsTest.testMutable.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InternedStringsTest.internedStrings.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LargeFactorialTest.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MyStringTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MyStringTest.testConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MyStringTest.testToLowerCase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RegexesTest.regexes.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SecureRandomNumbersTest.random.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -85,8 +72,8 @@
       <recent name="de.vedantwankha.java.liang.oop" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyStringTest">
-    <configuration name="InternedStringsTest.internedStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConstructorInheritanceExampleTest">
+    <configuration name="ConstructorInheritanceExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -95,9 +82,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
-      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.InternedStringsTest" />
-      <option name="METHOD_NAME" value="internedStrings" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.ConstructorInheritanceExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConstructorInheritanceExampleTest" />
         <item itemvalue="JUnit.MyStringTest" />
         <item itemvalue="JUnit.MyStringTest.testToLowerCase" />
         <item itemvalue="JUnit.MyStringTest.testConstructor" />
         <item itemvalue="JUnit.RegexesTest.regexes" />
-        <item itemvalue="JUnit.InternedStringsTest.internedStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +180,9 @@
       <workItem from="1729623445812" duration="131000" />
       <workItem from="1730018786206" duration="18091000" />
       <workItem from="1730045107518" duration="6258000" />
+      <workItem from="1730107903229" duration="1279000" />
+      <workItem from="1730122371996" duration="5077000" />
+      <workItem from="1730137037374" duration="696000" />
     </task>
     <servers />
   </component>
