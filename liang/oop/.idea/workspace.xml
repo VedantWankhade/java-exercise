@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee70019-5754-4524-ba2a-6b9e5c98160c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/ConstructorChainingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/ConstructorInheritanceExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/ConstructorChainingBypass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/RecordClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/vedantwankha/java/liang/oop/WithAMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/ConstructorChainingBypassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/MethodOverridingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/RecordClassesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/vedantwankha/java/liang/oop/WithAMethodsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,17 +45,21 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;JUnit.CircleClassExampleTest.testCircleClass.executor&quot;: &quot;Profiler#3&quot;,
+    &quot;JUnit.ConstructorChainingBypassTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ConstructorInheritanceExampleTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.DateExampleTest.dateExample.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ImmutableArrayTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ImmutableObjectsTest.testMutable.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.InternedStringsTest.internedStrings.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LargeFactorialTest.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MethodOverridingTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MyStringTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MyStringTest.testConstructor.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MyStringTest.testToLowerCase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RecordClassesTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.RegexesTest.regexes.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.SecureRandomNumbersTest.random.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WithAMethodsTest.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
@@ -72,7 +82,22 @@
       <recent name="de.vedantwankha.java.liang.oop" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ConstructorInheritanceExampleTest">
+  <component name="RunManager" selected="JUnit.RecordClassesTest">
+    <configuration name="ConstructorChainingBypassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.vedantwankha.java.liang.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.ConstructorChainingBypassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstructorInheritanceExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop" />
       <extension name="coverage">
@@ -88,7 +113,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodOverridingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -97,13 +122,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
-      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.MyStringTest" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.MethodOverridingTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RecordClassesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -112,14 +137,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
-      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.MyStringTest" />
-      <option name="METHOD_NAME" value="testConstructor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.RecordClassesTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStringTest.testToLowerCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WithAMethodsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop" />
       <extension name="coverage">
         <pattern>
@@ -128,36 +152,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
-      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.MyStringTest" />
-      <option name="METHOD_NAME" value="testToLowerCase" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegexesTest.regexes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.vedantwankha.java.liang.oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="de.vedantwankha.java.liang.oop" />
-      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.RegexesTest" />
-      <option name="METHOD_NAME" value="regexes" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="de.vedantwankha.java.liang.oop.WithAMethodsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RecordClassesTest" />
+        <item itemvalue="JUnit.ConstructorChainingBypassTest" />
+        <item itemvalue="JUnit.WithAMethodsTest" />
+        <item itemvalue="JUnit.MethodOverridingTest" />
         <item itemvalue="JUnit.ConstructorInheritanceExampleTest" />
-        <item itemvalue="JUnit.MyStringTest" />
-        <item itemvalue="JUnit.MyStringTest.testToLowerCase" />
-        <item itemvalue="JUnit.MyStringTest.testConstructor" />
-        <item itemvalue="JUnit.RegexesTest.regexes" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +190,13 @@
       <workItem from="1730107903229" duration="1279000" />
       <workItem from="1730122371996" duration="5077000" />
       <workItem from="1730137037374" duration="696000" />
+      <workItem from="1730200829075" duration="2874000" />
+      <workItem from="1730203938587" duration="6000" />
+      <workItem from="1730203953048" duration="3000" />
+      <workItem from="1730203982733" duration="128000" />
+      <workItem from="1730204663164" duration="9515000" />
+      <workItem from="1730223527953" duration="10000" />
+      <workItem from="1730223587461" duration="3132000" />
     </task>
     <servers />
   </component>
